@@ -1,2 +1,2 @@
-# W8C2
-Activities
+# unfinished
+Activities, exercises and self-education with GitHub, Git, data tree and general version control practices.
